@@ -4,8 +4,8 @@ Twitter Bot for Teletón Paraguay. Generates image from variables and tweets it.
 ## Requirements
 
 **Python 3.5**
-* Tweepy
-* Pillow
+* [Tweepy](https://github.com/tweepy/tweepy)
+* [Pillow](https://pypi.org/project/Pillow/)
 * mysqld
 
 ## Installation
